@@ -41,26 +41,19 @@ Each **Box** consists of:
 To test BoxNet locally, follow these steps:  
 
 1️⃣ Clone the Repository
+git clone https://github.com/hlNaveen/BoxNet.git  
+cd BoxNet  
 
 2️⃣Install Dependencies
-sh
-Copy
-Edit
 pip install -r requirements.txt  
+
 3️⃣ Run the BoxNet Router
-sh
-Copy
-Edit
 python app.py  
+
 4️⃣ Run the Secure Box Server
-sh
-Copy
-Edit
 python box_server.py  
+
 5️⃣ Send a Secure Box
-sh
-Copy
-Edit
 python box_client.py  
 
 ⚠️ Security Considerations
