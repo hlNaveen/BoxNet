@@ -69,9 +69,13 @@ While BoxNet improves security over traditional networking, ongoing research add
 
 
 📅 Future Development
+
 🔸 Large-scale real-world testing in cloud & enterprise environments
+
 🔸 Hybrid compatibility with existing TCP/IP networks
+
 🔸 Performance optimizations for high-bandwidth & low-latency environments
+
 
 📜 License
 BoxNet is licensed under MIT License.
