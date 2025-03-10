@@ -58,10 +58,15 @@ python box_client.py
 
 ⚠️ Security Considerations
 While BoxNet improves security over traditional networking, ongoing research addresses:
+
 🔹 AI-based routing exploits → Mitigated with validation & voting nodes
+
 🔹 Quantum threats → Countered with post-quantum cryptographic schemes
+
 🔹 Box spam/DDoS → Proof-of-Work authentication
+
 🔹 Metadata tracking → Onion routing & zero-knowledge encryption
+
 
 📅 Future Development
 🔸 Large-scale real-world testing in cloud & enterprise environments
